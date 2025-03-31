@@ -176,7 +176,7 @@ include("conn.php");
     </div>
     
     <div class="footer">
-        พัฒนาโดย <i class="fas fa-code"></i> 664485025 นายสถาพร ทิพย์ไปรยา <i class="fas fa-user-graduate"></i> หมู่เรียน 66/96
+        พัฒนาโดย <i class="fas fa-code"></i> พัฒนาโดย 664485015 นายณฐนนท์ ชุมเพ็ญ หมู่เรียน 66/96 <i class="fas fa-user-graduate"></i> หมู่เรียน 66/96
     </div>
 
     <!-- JavaScript Bundle -->
